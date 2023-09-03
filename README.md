@@ -8,5 +8,7 @@ Disconnect P0-P2 to allow USB programming.
 
 
 YouTube video of the project: https://youtu.be/R0ORwcHY910
+
 Details on the sensors used: https://www.nve.com/webstore/AD024-10E
+
 Details on the breakout boards: https://www.nve.com/webstore/AG035-06

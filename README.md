@@ -13,7 +13,7 @@ SDA and SCL connect to a 20 x 4 LCD Module. P3 is audio; P11 is mute.
 Disconnect P0-P1 to allow USB programming.
 
 
-YouTube video of the project: https://youtu.be/R0ORwcHY910
+YouTube video of the project: https://youtu.be/Il0iVUDDfjk
 
 Details on the sensors used: https://www.nve.com/webstore/AD024-10E
 

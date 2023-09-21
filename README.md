@@ -18,3 +18,5 @@ YouTube video of the project: https://youtu.be/Il0iVUDDfjk
 Details on the sensors used: https://www.nve.com/webstore/AD024-10E
 
 Details on the breakout boards: https://www.nve.com/webstore/AG035-06
+
+Official Arduino blog post: https://blog.arduino.cc/2023/09/15/practical-magnetic-switches-make-this-electronic-chessboard-possible/ 
